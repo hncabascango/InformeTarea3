@@ -28,6 +28,8 @@ Objetivos Generales
 
 ### Capítulo 5 - Circuitos en serie
 
+SECCIÓN 5-1 Resistores en serie 
+
 2. Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie.
 
 Los resistores que están en serie son:
@@ -50,6 +52,8 @@ De esta manera todos los resistores están en serie
 
 Rnominal= R12 + R8 + R6
 
+SECCIÓN 5-2 COrriente en un circuito en serie
+
 6. ¿Cuál es la corriente a través de cada resistor dispuesto en un circuito en serie si el voltaje total es de 12V y la resistencia total de 120Ω ?
 
 ![image](https://user-images.githubusercontent.com/105606339/172263256-c93483e2-c553-45fb-8f65-5bb403574619.png)
@@ -61,6 +65,7 @@ La corriente en todas las resistencias será la misma.
 
 ![image](https://user-images.githubusercontent.com/105606339/172268898-9f8a30d7-b1e6-4481-9356-bfe4e4648a94.png)
 
+SECCIÓN 5-3 Resistencia total en serie
 
 10. Se conectan los siguientes resistores (uno de cada uno) en un circuito en serie: 1.0 Ω, 2.2Ω, 5.6Ω, 12Ω y 22Ω. Determine la resistencia total.
 
@@ -85,6 +90,7 @@ La corriente en todas las resistencias será la misma.
 
 ![image](https://user-images.githubusercontent.com/105606339/172272712-a2515560-39a3-4229-907d-920396b474c4.png)
 
+SECCIÓN 5-4 Aplicación de la ley de Ohm
 
 20. Determine la caída de voltaje a través de cada resistor mostrado en la figura 5-74.
 
@@ -131,10 +137,13 @@ Interruptor posición C
 
 ![image](https://user-images.githubusercontent.com/105606339/172284637-aef6638e-9650-410b-a55f-14b327adc854.png)
 
+SECCIÓN 5-5 Fuentes de voltaje en serie
 
 28. El término oposición en serie significa que las fuentes están en serie con polaridades opuestas. Si una bateria de 12V y otra de 3V están en oposición en serie, ¿Cuál es el voltaje total?
 
 ![image](https://user-images.githubusercontent.com/105606339/172285212-f495a638-02c7-4dbe-b5c7-2f9d6c565433.png)
+
+SECCIÓN 5-6 Ley de voltaje de Kirchhoff
 
 30. Se miden las siguientes caídas de voltaje a través de tres resistores dispuestos en serie: 5.5 V, 8.2 V, y 12.3V ¿Cuál es el valor del voltaje de la fuente al que están conectadps estos resistores?
 
@@ -147,10 +156,10 @@ Interruptor posición C
 
 34. Encuentre R1, R2 y R3 en la figura 5-82.
 
+![image](https://user-images.githubusercontent.com/105606339/172478218-0d08504c-b757-47c8-8f35-710ab04bf4ef.png)
 
-36. Con el resultado del problema 35, determine el voltaje a través de cada resistor mostrado en la figura 5-83 para cada  posición del interruptor.
 
-
+SECCIÓN 5-7 Divisores de voltaje 
 
 38. Determine el voltaje entre los puntos A y B en cada divisor de voltaje de la figura 5-84.
 
@@ -172,9 +181,11 @@ Interruptor posición C
 
 44. Con la tabla de valores estándar de resistor dada en el apéndice A, diseñe un divisor de voltaje para producir los siguientes voltajes aproximados con respecto a tierra utilizando una fuente de 30V, 8.18V, 14.7V y 24.6V. La corriente extraída de la fuente debe limitarse a no más de 1mA. El número de resistores, sus valores, y sus valores nominales de potencia en watts deben ser especificados. Se debe proporcionar un diagrama esquemático que muestre la disposición del circuito y la colocación de los resistores.
 
-![image](https://user-images.githubusercontent.com/105606339/172442833-134af074-da67-4e97-9a84-375c4b113ca6.png)
+![image](https://user-images.githubusercontent.com/105606339/172463890-2e1315c2-a3ed-42d4-b863-704a04ce3545.png)
 
 Todas las resistencias pueden ser de 1/8 W
+
+SECCIÓN 5-8 Potencia en circuitos en serie
 
 46. Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total?
 
@@ -199,9 +210,13 @@ Todas las resistencias pueden ser de 1/8 W
 
 ![image](https://user-images.githubusercontent.com/105606339/172311092-406e36a5-3cca-4d06-84f0-6a875f47408b.png)
 
+SECCIÓN 5-9 Mediciones de voltaje
+
 52. En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor?
 
 La medición se realizaría a cada lado del resistor con respecto a tierra, entonces mi voltaje sería  el voltaje medido en el punto A menos el voltaje medido en el punto B.
+
+SECCIÓN 5-10 Localización de fallas
 
 54. Se conecta una serie de cinco resistores a través de una batería de 12 V. Se miden 0 volts en todos los resistores excepto en R2. ¿Qué está mal en el circuito? ¿Qué voltaje se medirá a través de R2?
 
@@ -213,11 +228,15 @@ La corriente medida sería de 25 mA.
 
 ### Capítulo 6 - Circuitos en paralelo
 
+SECCIÓN 6-1 Resistores en paralelo
+
 2. Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de circuito impreso.
 
 ![image](https://user-images.githubusercontent.com/105606339/172281146-28997fa3-cdf3-4997-a77b-4553f50a2ca9.png)
 
 Los resistores  R5, R1, R2 están conectados en serie.
+
+SECCIÓN 6-2 Voltaje en un circuito paralelo
 
 4. ¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12V y la resistencia total de 550Ω? Hay cuatro resistores, todos de igual valor.
 
@@ -262,13 +281,23 @@ Posición C del interruptor
 
 ![image](https://user-images.githubusercontent.com/105606339/172332971-cc4175c5-5d23-4d42-98e4-66108772c05a.png)
 
+SECCIÓN 6-3 Ley de corrientes de Krichhoff
+
 10. Un total del 500mA entra a resistencias de acinco en paralelo. Las corrientes a través de los resistores son de: 50mA, 150mA, 25mA y 100mA. ¿Cuál es la corriente a través del quinto resistor?
 
 ![image](https://user-images.githubusercontent.com/105606339/172334315-16a7fb56-2d15-4995-931a-1688a47b5219.png)
 
 12. En cirta habitación, el circuito eléctrico tiene una lámpara de cielo que consume 1.25A y cuatro tomas de corriente de pared. Dos lámparas de mesa que consumen cada una 0.833A están conectadas a dos tomas de corriente, y un calentador eléctrico que consume 10A está conectado a la tercer toma de corriente. Cuando todos estos elementos están en uso, ¿Cuánta corriente hay en la línea principal que abastece a la habitación? Si la línea principal está protegida por un cortacircuito de 15A ¿Cuánta corriente puede ser absorbida de la cuarta toma de corriente? Trace un diagrama esquemático de esta instalación eléctrica.
 
+Corriente total en la línea principal 
 
+![image](https://user-images.githubusercontent.com/105606339/172474285-6bf22212-48b6-43c7-ae54-d7460fb6ef6b.png)
+ 
+ La corriente que podrá ser absorbida por el cuarto toma de corriente deberá ser menor que 2.084 A
+ 
+ ![image](https://user-images.githubusercontent.com/105606339/172474444-434092bf-af2d-4889-bef0-eb7ae788083c.png)
+
+SECCIÓN 6-4 Resistencia total en paralelo
 
 14. Los siguientes resistores están conectados en paralelo: 1.0MΩ, 2.2MΩ, 5.6MΩ, 12MΩ y 22 MΩ. Determine la resistencia total.
 
@@ -296,6 +325,8 @@ Posición C del interruptor
 20. Si la resistencia total en la figura 6-71 es de 389.2Ω ¿cuál es el valor de R2?
 
 ![image](https://user-images.githubusercontent.com/105606339/172341144-63e3f5f2-0cd7-42ed-8391-36c1ba964ca3.png)
+
+SECCIÓN 6-5 Aplicación de la Ley de Ohm
 
 22. Cuál es la corriente total en cada uno de los circuitos de la figura 6-73?
 
@@ -333,6 +364,7 @@ Interruptor posición B
 
 Interruptor posición C
 
+SECCIÓN 6-6 Fuentes de corriente en paralelo
 
 30. Determine la corriente a través de RL en cada uno de los circuitos de la figura 6-78.
 
@@ -347,6 +379,8 @@ Interruptor posición C
 (c)
 
 ![image](https://user-images.githubusercontent.com/105606339/172423060-eda6fc31-5595-4fa7-a647-1ed835ebb96a.png)
+
+SECCIÓN 6-7 Divisores de corriente
 
 32. ¿Cuánta corriente deberán indicar los medidores de la figura 6-80 a través de cada rama?
 
@@ -368,43 +402,68 @@ En la rama 2 deberá mostrar un valor de 2A
    
    ![image](https://user-images.githubusercontent.com/105606339/172436125-1fc4b89e-91ab-4213-8678-52c6de74e495.png)
 
-   
+SECCIÓN 6-8 Potencia en circuitoos en paralelo
+
 38. Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250mW. ¿Cuál es la potencia total?
 
 ![image](https://user-images.githubusercontent.com/105606339/172441383-8ed0fd79-29a8-4c6e-be61-f40581772daa.png)
 
 40. Seis focos están conectados en paralelo entre los extremos de una fuente de 110V. Cada foco es de 75W. ¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?
 
+Corriente de cada foco
+
+![image](https://user-images.githubusercontent.com/105606339/172451799-8beaeb77-43cc-492c-bf5d-088ee8735856.png)
+
+Corriente total
+
+![image](https://user-images.githubusercontent.com/105606339/172451828-88627900-5611-49e5-9c33-ed3b939e18e0.png)
 
 
 42. Cierto circuito en paralelo está compuesto por resistores de solo 1/2W. La resistencia total es de 1.0kΩ, y la corriente total es de 50mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine lo siguiente:
 
 (a)El número de resistores
+
+![image](https://user-images.githubusercontent.com/105606339/172461010-5e679caf-9477-4ccf-9226-aa48bf17bba2.png)
+
 (b) El valor de cada resistor
+
+![image](https://user-images.githubusercontent.com/105606339/172461230-44912b7f-276d-4882-ab7e-5b6f19b52325.png)
+
 (c) La corriente en cada rama
+
+![image](https://user-images.githubusercontent.com/105606339/172461460-23637bbf-3c58-49e7-872d-6d51e4b7f236.png)
+
+
 (d) El voltaje aplicado
 
+![image](https://user-images.githubusercontent.com/105606339/172461548-cb2becf4-4210-468a-9b2b-94faa3b7cf68.png)
 
+SECCIÓN 6-10 Localización de fallas
 
 44. En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?
 
+![image](https://user-images.githubusercontent.com/105606339/172458648-6f667031-b27c-4895-b0e1-11210c6ef173.png)
 
+No se ha abierto ninguna resistencia.
 
 46. ¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5.55mA?
 
+![image](https://user-images.githubusercontent.com/105606339/172459128-2c3db581-3bc4-48d4-bff0-784c3fab9a24.png)
 
-48. Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4:
+El resistor 1 se ha abierto
 
-(a) 1 y 2
-(b) 2 y 3
-(c) 3 y 4
-(d) 1 y 4
+![image](https://user-images.githubusercontent.com/105606339/172459691-ea4e9a00-0007-46a1-ab66-a2b1f4ca4536.png)
 
 
 ## Conclusiones 
 
+- Al analizar las características de un circuito en serie y un circuito en paralelo se ha logrado notar las diferencias entre estas.
+- Con los conceptos y características aprendidos en el capítulo 5 y 6 acerca de los circuitos en serie y en paralelo se ha logrado identificar la estructura de cada una de estas, ayudando así a la resolución de los problemas planteados.
 
 ## Bibliografía
-   
+Buitrón, P. M. (18 de Agosto de 2015). UIDE. Obtenido de https://repositorio.uide.edu.ec/bitstream/37000/118/1/T-UIDE-0647.pdf
+
+pérTiga. (26 de Enero de 2009). Obtenido de https://www.pertiga.es/pdf/tec/tec55.pdf
+
 Floyd, TL (2007). Principios de circuitos electricos. México: EDUCACIÓN DE LA PERSONA.
 
